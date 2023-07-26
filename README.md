@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TNM88
+<h1><i></i>- 👋 Hi, I’m @TNM88
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on c
-- 📫 How to reach me shahoriar2001@gmail.com
+- 📫 How to reach me shahoriar2001@gmail.com </h1></i>
 
 <!---
 TNM88/TNM88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
