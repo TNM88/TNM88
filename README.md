@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **java**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **Shahoriar2001@gmail.com**
 
