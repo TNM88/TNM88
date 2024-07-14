@@ -1,7 +1,3 @@
-# Project Title
-
-![Project GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXYxdGZxaWdtd3NlODNqb2NtNm84Ymp0NHMxbjQyMXc0eWhhb29hMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)
-
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
@@ -13,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXYxdGZxaWdtd3NlODNqb2NtNm84Ymp0NHMxbjQyMXc0eWhhb29hMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
